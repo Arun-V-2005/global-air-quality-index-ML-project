@@ -55,16 +55,6 @@ This project explores a global air quality dataset from six major cities and bui
 
 ---
 
-## 📁 Repository Contents
-
-| File / Folder | Description |
-|---------------|-------------|
-| `Global_Air_Quality_Analysis_and_ML.ipynb` | Full EDA + modeling notebook |
-| `.gitignore` | Git tracking exclusions |
-| `README.md` | Project documentation |
-
----
-
 ## 🚀 Future Work
 
 - Classify AQI into categories (Good, Moderate, etc.)
